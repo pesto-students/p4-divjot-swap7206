@@ -97,6 +97,7 @@ Gecko calls the tree of visually formatted elements a "Frame tree". Each element
 - HTML Parsing: HTML Text -> Tokenization -> DOM Tree
 
 HTML Parsing Flow (taken from HTML5 spec):
+
 ![HTML Parsing Flow](./resources/HTMLParsingFlow.avif)
 
 #### *DOM*
